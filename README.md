@@ -45,5 +45,4 @@ ___
 
 ### [검색 화면]
 ![search](https://github.com/user-attachments/assets/0f631c70-99ac-4f77-83b4-48c82f99c1d6)
-32-47ce-a6ab-9509db1efea6)
 
